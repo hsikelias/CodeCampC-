@@ -1,0 +1,10 @@
+# visual studio temp files
+.vs/
+
+# C# hidden files
+bin/
+obj/
+
+# user-specific settings
+*.user
+*.suo
