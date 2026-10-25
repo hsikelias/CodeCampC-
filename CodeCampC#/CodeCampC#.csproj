@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CodeCampC_._03</StartupObject>
+    <StartupObject>CodeCampC_._05</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -49,6 +49,9 @@
     <Compile Include="01.numDataTypes.cs" />
     <Compile Include="02.textDataTypes.cs" />
     <Compile Include="03.conversion.cs" />
+    <Compile Include="04.bool.cs" />
+    <Compile Include="05.operators.cs" />
+    <Compile Include="06.var.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
