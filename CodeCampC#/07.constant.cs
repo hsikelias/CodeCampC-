@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CodeCampC_
+{
+    class _07
+    {
+        static void Main(string[] args)
+        {
+            const int vat = 20;
+            const double percentVAT = vat / 100D;
+
+
+            int balance = 1000;
+
+            Console.WriteLine(balance *(vat/100));
+
+            Console.ReadLine();
+            
+        }
+    }
+}

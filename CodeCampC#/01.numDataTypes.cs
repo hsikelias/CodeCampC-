@@ -37,10 +37,13 @@ namespace CodeCampC_{
 
 
 
-            // float 32bit, double 8 bytes, decimal 16 bytes.
+            // float 4 bytes, double 8 bytes, decimal 16 bytes.
             decimal money = 14.88M;
             Console.WriteLine(decimal.MaxValue);
             Console.WriteLine(decimal.MinValue);
+
+
+
 
 
             Console.ReadLine();
